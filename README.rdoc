@@ -1,3 +1,0 @@
-This is A First Ruby Tutorial Apllication
-from Michelle. 
-It is cool and fun to learn Ruby on Rails!!!
